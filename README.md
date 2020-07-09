@@ -17,3 +17,6 @@ This is my Final Year BS(CS) Project. It consists of a youtube clone created wit
 
 # Video Comparision before and after compression:
 
+# Limitations:
+Due to advanced video compression technology i.e Hevc or H265 this project will only display videos on microsoft edge.
+
